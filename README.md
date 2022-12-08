@@ -1,4 +1,5 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Amaze Template Starter
+![Capture d'écran_20221208_155904](https://user-images.githubusercontent.com/37814393/206480378-e63cdf18-25ab-4c80-8c95-6b5ff4a9a920.png)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -8,16 +9,14 @@ Make sure to install the dependencies:
 
 ```bash
 # yarn
+
 yarn install
 
-
 ## Development Server
-
 Start the development server on http://localhost:3000
 
-```bash
-
 yarn dev -o
+
 ```
 
 ## Production
