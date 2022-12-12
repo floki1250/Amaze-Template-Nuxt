@@ -4,10 +4,12 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
+```bash
 git clone https://github.com/floki1250/Amaze-Template-Nuxt3.git you_app_name
+
 Make sure to install the dependencies:
 
-```bash
+
 # yarn
 
 yarn install
