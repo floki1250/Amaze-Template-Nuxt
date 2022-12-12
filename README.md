@@ -5,7 +5,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 ```bash
-Clone the repo
+# Clone the repo
 
 git clone https://github.com/floki1250/Amaze-Template-Nuxt3.git you_app_name
 
