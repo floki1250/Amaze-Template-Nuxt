@@ -3,7 +3,7 @@
 #
 ![DaisyUI](https://img.daisyui.com/images/daisyui/horizontal-dark.png)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Nuxt Documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 ```bash
@@ -16,12 +16,12 @@ Make sure to install the dependencies:
 
 # yarn
 
-yarn install
+bun/npm install
 
 ## Development Server
 Start the development server on http://localhost:3000
 
-yarn dev -o
+bun dev -o
 
 ```
 
@@ -30,7 +30,7 @@ yarn dev -o
 Build the application for production:
 
 ```bash
-yarn build
+bun run build
 ```
 
 Locally preview production build:
