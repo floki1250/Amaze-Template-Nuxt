@@ -1,5 +1,6 @@
-# Nuxt 3 Amaze Template Starter
+# Nuxt  Amaze Template Starter
 ![Nuxt](https://nuxt.com/assets/design-kit/logo-green-black.png)
+#
 ![DaisyUI](https://img.daisyui.com/images/daisyui/horizontal-dark.png)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
